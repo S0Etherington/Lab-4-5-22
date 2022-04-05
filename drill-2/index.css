@@ -1,0 +1,80 @@
+#top{
+    display: flex;
+    border: 5px solid black;
+    height: 200px;
+    width: 95vw;
+ 
+    align-items: center;
+    
+}
+
+#purple-box{
+    height: 150px;
+    width: 50px;
+    background-color: rgb(151, 78, 180);
+    position: relative;
+    left: 10px;
+    top: 15px
+}
+
+#green-box{
+    height: 190px;
+    width: 350px;
+    background-color: green;
+    position: relative;
+    left: 60px
+}
+
+#blue-circle{
+    height: 190px;
+    width: 190px;
+    border-radius: 50%;
+    background-color: rgb(117, 178, 206);
+    position: relative;
+    left: 110px
+}
+
+#mid{
+    height: 250px;
+    width: 95vw;
+    margin: auto;
+    display: flex;
+    border: 5px dotted black;
+    position: relative;
+    top: 25px;
+    justify-content: center;
+    align-items: center;
+}
+
+#cream-box{
+    background-color: rgb(245, 235, 200);
+    height: 150px;
+    width: 80vw;
+    box-shadow: 10px 10px 5px rgb(58, 58, 58);
+}
+
+#bottom{
+    height:250px;
+    width:50vw;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    position: relative;
+    top: 50px;
+    box-shadow: 10px 10px 5px rgb(94, 94, 94);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#hello-text{
+    color: rgb(23, 23, 119);
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#friends-text{
+    color:rgb(23, 23, 119);
+    font-size: 25px;
+    font-weight: bold;
+}

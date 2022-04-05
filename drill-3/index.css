@@ -1,0 +1,26 @@
+header{
+    background-color: rgb(255, 162, 162);
+    width: 100vw;
+    height: 50px;
+}
+
+.hrbox{
+    height: 100px;
+    width: 100vw;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#teal{
+    background-color: teal;
+}
+
+#yllwgrn{
+    background-color: greenyellow;
+}
+
+#yellow{
+    background-color: yellow;
+}
